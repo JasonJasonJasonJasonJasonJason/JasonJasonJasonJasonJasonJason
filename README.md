@@ -68,8 +68,8 @@ Operating Systems • Theory of Computation • Quantum Computing • Logic Desi
 ## 📫 Contact
 
 - **Email:** Jason.marty2968@gmail.com  
-- **LinkedIn:** *(I can add this if you want)*  
-- **Portfolio:** *(I can help you build one if you want)*  
+- **LinkedIn:** 
+- **Portfolio:**  
 
 ---
 
